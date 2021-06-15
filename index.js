@@ -29,7 +29,7 @@ const puppeteer = require('puppeteer');
     await page.goto('URL DO SORTEIO AQUI') // insira a url do sorteio entre aspas simples
 
     setInterval(async function comentar(){
-      await page.type("[class='Ypffh']", '#testemunhadexiaomi')
+      await page.type("[class='Ypffh']", 'SEU COMENTARIO DEVE SER INSERIDO AQUI') // insira o comentario que era feito aqui entre aspas simples
 
       setTimeout(async() => {
         await page.click("[type='submit']")        
