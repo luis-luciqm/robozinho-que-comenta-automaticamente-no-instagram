@@ -1,4 +1,4 @@
-## Olá, meu nome é Jeredy e sou um robôzinho que comenta sozinho no instagram sozinho no instagram.
+## Olá, meu nome é Jeredy e sou um robôzinho que comenta sozinho no instagram.
 
 ### Instale as dependências
 `npm install`
